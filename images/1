@@ -13,7 +13,7 @@
 			"imagePath":"https://images.pexels.com/photos/1366919/pexels-photo-1366919.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
 			"category":"Manzara"
 		},
-{
+		{
 			"id":3,
 			"imagePath":"https://images.pexels.com/photos/1236701/pexels-photo-1236701.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
 			"category":"Manzara"
@@ -102,7 +102,7 @@
 			"id":20,
 			"imagePath":"https://images.pexels.com/photos/1122868/pexels-photo-1122868.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
 			"category":"Manzara"
-		},
+		}
 	
 	]
 }
